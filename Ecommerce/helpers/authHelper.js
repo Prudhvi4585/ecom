@@ -1,5 +1,5 @@
 import bcrypt from 'bcryptjs';
-import { hashPassword } from './authHelper';
+// import { hashPassword } from './authHelper';v
 
 export const hashPassword = async(password) => {
     try{
